@@ -1,4 +1,4 @@
-# GT_Online_Models App
+# Web-App-Online-Model-Viewer-Solution
 
 This is a Streamlit-based web application for online model viewing and analysis, integrating with Speckle for BIM/CAD data visualization and parameter exploration. It provides interactive charts and data export features for selected model parameters.
 
